@@ -1,3 +1,9 @@
+body{
+  background-color:   #FF9900;
+  text-align: center;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color:   #000099;
+}
 .green{
   height: 427px;
   width: 640px;
@@ -14,7 +20,7 @@
   width: 250px;
   background-color: red;
   position: absolute;
-  top: 150px;
+  top: 270px;
   right: 0px;
   left: 0px;
   margin: auto;
